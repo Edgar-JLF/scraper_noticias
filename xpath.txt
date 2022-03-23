@@ -1,0 +1,4 @@
+Links = //div[@class="col mb-4"]/div[@class="news V_Title_Img"]/a[position()=1]/@href
+Titulo = //div[@class = "row OpeningPostNormal"]/div[@class = "col-8 order-2 d-flex flex-column
+Resumen = //div[@class = "lead"]/p/text()
+Cuerpo = //div[@class = "html-content"]/p/text()
